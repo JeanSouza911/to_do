@@ -13,7 +13,7 @@ JavaScript
 
 React
 
-## Rode o projeto na sua máquina
+## Rode o projeto na sua máquina:
 
 É necessário ter o Node instalado na sua máquina. Caso não tenha faça o download: https://nodejs.org/pt-br/download/
 
