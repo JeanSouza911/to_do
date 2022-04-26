@@ -25,7 +25,7 @@ React
 
 4 - Pressione Enter para criar seu clone local.
 
-5 - Digite **cd to_do** e pressione Enter para acessar a pasta do projeto.
+5 - Digite **cd to_do** e pressione Enter para acessar o diretório do projeto.
 
 6 - Digite **npm install**  e pressione Enter para instalar as dependências do projeto.
 
