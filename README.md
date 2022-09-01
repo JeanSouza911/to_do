@@ -5,12 +5,6 @@
 O To-Do List é um CRUD simples, você pode criar, editar e excluir tarefas, para marcar a tarefa como concluída basta clicar no BookMark(flag).
 ## Tecnologias usadas no projeto:
 
-HTML
-
-CSS
-
-JavaScript
-
 React
 
 ## Rode o projeto na sua máquina:
