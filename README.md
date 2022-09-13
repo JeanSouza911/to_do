@@ -7,6 +7,10 @@ O To-Do List é um CRUD simples, você pode criar, editar e excluir tarefas, par
 
 React
 
+CSS
+
+React-icons
+
 ## Rode o projeto na sua máquina:
 
 É necessário ter o Node instalado na sua máquina. Caso não tenha faça o download: https://nodejs.org/pt-br/download/
